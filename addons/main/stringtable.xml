@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project name="tdd">
+    <Package name="main">
+        <Key ID="STR_TDD_Main_StandingStaticLine">
+            <English>Tire Deflation Device</English>
+        </Key>
+        <Key ID="STR_TDD_Main_RigAnchorCables">
+            <English>Rig Anchor Cables</English>
+        </Key>
+        <Key ID="STR_TDD_Main_StowAnchorCables">
+            <English>Stow Anchor Cables</English>
+        </Key>
+        <Key ID="STR_TDD_Main_GetInStanding">
+            <English>Get In Standing</English>
+        </Key>
+        <Key ID="STR_TDD_Main_StandUp">
+            <English>Stand Up</English>
+        </Key>
+        <Key ID="STR_TDD_Main_SitDown">
+            <English>Sit Down</English>
+        </Key>
+        <Key ID="STR_TDD_Main_HookUp">
+            <English>Hook Up</English>
+        </Key>
+        <Key ID="STR_TDD_Main_handleExplosion">
+            <English>handleExplosion</English>
+        </Key>
+        <Key ID="STR_TDD_Main_Jump">
+            <English>Static Line Jump</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIGetInStanding">
+            <English>AI Get In Standing</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIGetInStanding_Description">
+            <English>On each keypress order one AI in your group to stand in the cargo hold of the vehicle you are in or are looking at.</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIStandUp">
+            <English>AI Stand Up</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIStandUp_Description">
+            <English>On each keypress order one AI in your group to stand up from his seat into the cargo hold.</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AISitDown">
+            <English>AI Sit Down</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIHookUp">
+            <English>AI Hook Up</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIHookUp_Description">
+            <English>Order all AI in your group to hook up to the static line.</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIhandleExplosion">
+            <English>AI handleExplosion</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIJump">
+            <English>AI Static Line Jump</English>
+        </Key>
+        <Key ID="STR_TDD_Main_AIJump_Description">
+            <English>On each keypress order one AI in your group to jump out of the aircraft.</English>
+        </Key>
+        <Key ID="STR_TDD_Main_CheckEquipment">
+            <English>Check Equipment</English>
+        </Key>
+    </Package>
+</Project>
