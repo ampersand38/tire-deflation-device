@@ -3,7 +3,7 @@ class CfgVehicles {
     class TDD_Talon: MineBase {
     	author = "Ampersand";
     	mapSize = 10.00;
-    	editorPreview = "\A3\EditorPreviews_F_Enoch\Data\CfgVehicles\Tarp_01_Large_Black_F.jpg";
+    	editorPreview = QPATHTOF(ui\talon_ca.paa);
     	_generalMacro = "TDD_Talon";
     	scope = 2;
     	ammo = "TDD_Talon_Ammo";
