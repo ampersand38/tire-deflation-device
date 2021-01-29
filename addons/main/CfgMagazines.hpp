@@ -4,12 +4,12 @@ class CfgMagazines {
     	author = "Ampersand";
     	scope = 2;
     	mass = 150;
-    	displayName = "Talon Spike Net";
-    	descriptionUse = "Use mine";
+    	displayName = "$STR_TDD_Main_Talon_DisplayName";
+    	descriptionUse = "$STR_A3_cfgMagazines_ATMine_Range_Mag0";
     	picture = QPATHTOF(ui\talon_ca.paa);
     	model = "\A3\Structures_F_Heli\Items\Luggage\PlasticCase_01_large_F.p3d";
     	useAction = 1;
-    	useActionTitle = "Put %1 (%2 left)";
+    	useActionTitle = "$STR_ACTION_PUTBOMB";
     	type = "2*		256";
     	allowedSlots[] = {901};
     	value = 5;
@@ -19,7 +19,7 @@ class CfgMagazines {
     	count = 1;
     	initSpeed = 0;
     	maxLeadSpeed = 0;
-    	descriptionShort = "Type: Vehicle immobilization device <br />Rounds: 1<br />Used on: Ground";
+    	descriptionShort = "$STR_TDD_Main_Talon_Description";
     	weaponPoolAvailable = 1;
     	sound[] = {"A3\sounds_f\dummysound", 0.000316228, 1, 10};
     };

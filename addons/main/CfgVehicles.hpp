@@ -7,14 +7,14 @@ class CfgVehicles {
     	_generalMacro = "TDD_Talon";
     	scope = 2;
     	ammo = "TDD_Talon_Ammo";
-    	displayName = "Talon Spike Net";
+    	displayName = "$STR_TDD_Main_Talon_DisplayName";
     	icon = "iconExplosiveAT";
     	picture = "\A3\Weapons_F\Data\clear_empty.paa";
     	model = "\a3\Props_F_Enoch\Military\Decontamination\Tarp_01_Large_Black_F.p3d";
-    	descriptionShort = "Type: Vehicle immobilization device<br />Rounds: 1<br />Used on: Ground";
+    	descriptionShort = "$STR_TDD_Main_Talon_Description";
     	class Library
     	{
-    		libTextDesc = "A spiked net laid over a road that can stop wheeled vehicles.";
+    		libTextDesc = "$STR_TDD_Main_Talon_Library";
     	};
     };
 
@@ -23,7 +23,7 @@ class CfgVehicles {
     	author = "Ampersand";
     	_generalMacro = "TDD_Talon_ModuleMine";
     	scopeCurator = 2;
-    	displayName = "Talon Spike Net";
+    	displayName = "$STR_TDD_Main_Talon_DisplayName";
     	explosive = "TDD_Talon_Ammo";
     	icon = "iconExplosiveAT";
     };
