@@ -22,5 +22,8 @@ class CfgMagazines {
     	descriptionShort = "$STR_TDD_Main_Talon_Description";
     	weaponPoolAvailable = 1;
     	sound[] = {"A3\sounds_f\dummysound", 0.000316228, 1, 10};
+    	class Library {
+    		libTextDesc = "$STR_TDD_Main_Talon_Library";
+    	};
     };
 };
