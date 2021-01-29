@@ -12,8 +12,7 @@ class CfgVehicles {
     	picture = "\A3\Weapons_F\Data\clear_empty.paa";
     	model = "\a3\Props_F_Enoch\Military\Decontamination\Tarp_01_Large_Black_F.p3d";
     	descriptionShort = "$STR_TDD_Main_Talon_Description";
-    	class Library
-    	{
+    	class Library {
     		libTextDesc = "$STR_TDD_Main_Talon_Library";
     	};
     };
