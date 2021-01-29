@@ -3,7 +3,7 @@ class CfgAmmo {
     class TDD_Talon_Ammo: MineBase {
     	hit = 0;
     	indirectHit = 0.5;
-    	indirectHitRange = 3;
+    	indirectHitRange = 2.5;
     	model = "\a3\Props_F_Enoch\Military\Decontamination\Tarp_01_Large_Black_F.p3d";
     	mineModelDisabled = "\A3\Structures_F_Heli\Items\Luggage\PlasticCase_01_large_F.p3d";
     	defaultMagazine = "TDD_Talon_Mag";
