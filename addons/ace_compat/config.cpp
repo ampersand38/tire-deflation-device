@@ -7,8 +7,8 @@ class CfgPatches {
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
         requiredAddons[] = {"tdd_main", "ace_main"};
-        author = "";
-        authors[] = {""};
+        author = "Ampersand";
+        authors[] = {"Ampersand"};
         VERSION_CONFIG;
     };
 };
