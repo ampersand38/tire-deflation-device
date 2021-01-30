@@ -24,8 +24,16 @@
         };
     };
     [{
-        speed _this < 5
+        isTouchingGround _this && {
+            private _position = _this selectionPosition ((_this selectionNames "LandContact") # 0);
+            _position set [0, 0];
+            private _velocity = velocity _this;
+            private _magnitude = vectorMagnitude _velocity;
+            _this addForce [_velocity vectorMultiply (-2 * (_magnitude min 100)), _position];
+            _magnitude < 1;
+        }
     }, {
+        _this setVelocity [0, 0, 0];
         _this forceSpeed -1;
         _this allowCrewInImmobile false;
     }, _vehicle, 10] call CBA_fnc_waitUntilAndExecute;
