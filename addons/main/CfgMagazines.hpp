@@ -8,6 +8,10 @@ class CfgMagazines {
     	descriptionUse = "$STR_A3_cfgMagazines_ATMine_Range_Mag0";
     	picture = QPATHTOF(ui\talon_ca.paa);
     	model = "\A3\Structures_F_Heli\Items\Luggage\PlasticCase_01_large_F.p3d";
+    	modelSpecial = "\A3\Structures_F_Heli\Items\Luggage\PlasticCase_01_large_F.p3d";
+        modelSpecialIsProxy = 1;
+        hiddenSelections[] = {"Camo","Camo2"};
+        hiddenSelectionsTextures[] = {"a3\Structures_F_Heli\Items\Luggage\Data\PlasticCase_01_CO.paa",QPATHTOF(data\TDD_PlasticCase_Logo_ca.paa)};
     	useAction = 1;
     	useActionTitle = "$STR_ACTION_PUTBOMB";
     	type = "2*		256";
