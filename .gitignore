@@ -5,4 +5,6 @@ texHeaders.bin
 *.swp
 *.swo
 *.biprivatekey
+*.pdn
+*.png
 Thumbs.db
