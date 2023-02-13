@@ -9,7 +9,7 @@ class CfgPatches {
         requiredAddons[] = {"A3_Weapons_F_Explosives","cba_main"};
         author = "Ampersand";
         authors[] = {"Ampersand"};
-        authorUrl = "https://github.com/ampersand38/";
+        authorUrl = "https://github.com/ampersand38/tire-deflation-device";
         VERSION_CONFIG;
     };
 };
