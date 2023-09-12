@@ -8,3 +8,8 @@ texHeaders.bin
 *.pdn
 *.png
 Thumbs.db
+releases/*
+keys/*
+.hemtt/local
+*.exe
+.hemttout
