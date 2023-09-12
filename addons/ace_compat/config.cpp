@@ -6,7 +6,8 @@ class CfgPatches {
         units[] = {};
         weapons[] = {};
         requiredVersion = REQUIRED_VERSION;
-        requiredAddons[] = {"tdd_main", "ace_main"};
+        requiredAddons[] = {"tdd_main", "ace_explosives"};
+        skipWhenMissingDependencies = 1;
         author = "Ampersand";
         authors[] = {"Ampersand"};
         VERSION_CONFIG;
