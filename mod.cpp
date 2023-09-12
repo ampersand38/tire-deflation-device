@@ -1,12 +1,12 @@
 name = "Tire Deflation Device";
-picture = "logo_tdd_ca.paa";
+picture = "logo_ampersand_ca.paa";
 actionName = "GitHub";
 action = "https://github.com/ampersand38/tire-deflation-device";
 description = "Placeable obstacle which immobilizes wheeled vehicles.";
-logo = "logo_tdd_ca.paa";
-logoOver = "logo_tdd_ca.paa";
+logo = "logo_ampersand_ca.paa";
+logoOver = "logo_ampersand_ca.paa";
 tooltip = "Tire Deflation Device";
 tooltipOwned = "Tire Deflation Device";
 overview = "Placeable obstacle which immobilizes wheeled vehicles.";
 author = "Ampersand";
-overviewPicture = "logo_tdd_ca.paa";
+overviewPicture = "logo_ampersand_ca.paa";
